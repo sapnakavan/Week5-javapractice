@@ -7,8 +7,8 @@ public class Star_Print {
         System.out.println(" *****     *****        ");
         System.out.println("  *           *         ");
         System.out.println("     *  *  *         ");
-        System.out.println("  *  *   *   *         ");
-        System.out.println("  *          *           ");
+        System.out.println("    *  *  * *         ");
+        System.out.println("   *         *           ");
 
 
 
